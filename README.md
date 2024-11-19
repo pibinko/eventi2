@@ -1,8 +1,6 @@
 # Leaflet Maps with Google Sheets
 Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
 
-![Preview](preview.jpg)
-
 ## Live links (replace with your own)
 - Leaflet Map https://pibinko.github.io/eventi2/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1xwLhC-QU8OuU40W73-tq9dYt_q90y4kP1h4JQeh29zw/edit?gid=0#gid=0
